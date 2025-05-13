@@ -207,7 +207,6 @@ Stores notifications for tenants and staff.
 5.  **Use the Database:** Use the database to manage your rental properties, tenants, leases, payments, and maintenance requests.
 
 ## ERD (Entity-Relationship Diagram)
-
-[![ERD](<erd_image/Rental Database Mnagement System.png>)]
+![ERD](<erd_image/Rental Database Mnagement System.png>)
 
 
