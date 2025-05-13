@@ -2,17 +2,6 @@
 -- This SQL script creates a database schema for a Rental Management System.
 -- The schema includes tables for properties, tenants, leases, payments, maintenance requests, and users.
 -- The schema is designed to manage rental properties, tenants, lease agreements, payments, and maintenance requests.
--- The schema includes the following tables:
--- 1. Properties: Stores information about rental properties.
--- 2. Tenants: Stores information about tenants.
--- 3. Leases: Stores information about lease agreements between tenants and properties.
--- 4. Payments: Stores information about rent payments made by tenants.
--- 5. MaintenanceRequests: Stores maintenance requests submitted by tenants.
--- 6. Users: Stores user information for staff/employees managing the system.
--- 7. PropertyAmenities: Stores the amenities available for each property.
--- 8. LeaseDocuments: Stores documents related to a lease.
--- 9. PropertyImages: Stores images of properties.
--- 10. Notifications: Stores notifications for tenants and staff.
 -- 1.  `Properties` Table: Stores information about the rental properties.
 CREATE TABLE
     Properties (

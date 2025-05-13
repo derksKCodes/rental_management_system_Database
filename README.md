@@ -208,6 +208,6 @@ Stores notifications for tenants and staff.
 
 ## ERD (Entity-Relationship Diagram)
 
-[Image of ERD for Rental House Management System]
+[![ERD](<erd_image/Rental Database Mnagement System.png>)]
 
 
